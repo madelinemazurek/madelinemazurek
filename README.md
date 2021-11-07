@@ -13,7 +13,10 @@ cellphone works or fixing my grandparents' printer. I love the feeling of wrappi
 around a complex issue and working on a problem until I can come up with a creative and elegant 
 solution. In my spare time, I enjoy hiking, reading, and of course writing code.
 
-If you have questions about me please do not hesitate to reach out.
+To check out a team project I've been working on go to: 
+https://github.com/Tech-Start-UCalgary/Aquavolution
+
+If you have questions about me please do not hesitate to reach out! :)
  - 📫 madeline.mazurek@ucalgary.ca
  - 💻 www.linkedin.com/in/madeline-mazurekin/madeline-mazurek
 
