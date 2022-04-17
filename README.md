@@ -1,9 +1,9 @@
 👋 Hi there, I’m @madelinemazurek
 
-I’m a third-year software engineering student actively searching for May 2022 internships. 
-As I am especially passionate about analytic problem solving and agile development, 
-I am seeking out workplaces where I will be able to challenge myself, learn new skills, 
-and become a valuable asset to the team.
+I’m a third-year software engineering student actively searching for internships starting 
+between May and September 2022. As I am especially passionate about analytic problem 
+solving and agile development, I am seeking out workplaces where I will be able to challenge 
+myself, learn new skills, and become a valuable asset to the team.
 
 Math and science have always been passions of mine, and I have shown a clear aptitude for a 
 STEM career from a young age. I was eight years old when the family dishwasher broke and did 
@@ -12,9 +12,6 @@ and fixing it all on my own. Nowadays I can frequently be found explaining to my
 cellphone works or fixing my grandparents' printer. I love the feeling of wrapping my brain 
 around a complex issue and working on a problem until I can come up with a creative and elegant 
 solution. In my spare time, I enjoy hiking, reading, and of course writing code.
-
-To check out a team project I'm currently contributing to go to: 
-https://github.com/Tech-Start-UCalgary/Aquavolution
 
 If you have questions about me please do not hesitate to reach out! :)
  - 📫 madeline.mazurek@ucalgary.ca
