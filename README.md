@@ -1,9 +1,9 @@
 👋 Hi there, I’m @madelinemazurek
 
-I’m a third-year software engineering student actively searching for internships starting 
-between May 2022 and September 2022. As I am especially passionate about analytic problem 
-solving and agile development, I am seeking out workplaces where I will be able to challenge 
-myself, learn new skills, and become a valuable asset to the team.
+I’m software engineering intern who is open to work for the May 2023 to August 2023 months. 
+As I am especially passionate about analytic problem solving and agile development, I am 
+seeking out workplaces where I will be able to challenge myself, learn new skills, and become 
+a valuable asset to the team.
 
 Math and science have always been passions of mine, and I have shown a clear aptitude for a 
 STEM career from a young age. I was eight years old when the family dishwasher broke and did 
