@@ -1,6 +1,6 @@
 👋 Hi there, I’m @madelinemazurek
 
-I’m software engineering intern who is open to work for the May 2023 to August 2023 months. 
+I’m a software engineering intern who is open to work for the May 2023 to August 2023 months. 
 As I am especially passionate about analytic problem solving and agile development, I am 
 seeking out workplaces where I will be able to challenge myself, learn new skills, and become 
 a valuable asset to the team.
